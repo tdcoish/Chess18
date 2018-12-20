@@ -29,7 +29,7 @@ struct Pixel{
 	unsigned char r, g, b, a;
 };
 
-//goddamn Pixel* caused me lots of problems.
+// Pixel* caused me lots of problems.
 struct Image{
 	int wd, ht, bpp;
 	Pixel* pImg;
