@@ -1,0 +1,38 @@
+﻿Build started 25/05/2016 4:41:50 PM.
+     1>Project "C:\Users\Timothy\Documents\Visual Studio 2012\Projects\Chess\New Chess\New Chess\New Chess.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "New Chess Main.cpp"
+         New Chess Main.cpp
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(328): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(331): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(334): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(335): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(346): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(347): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(354): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(370): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(372): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(375): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(377): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(395): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(396): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(399): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(400): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(401): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(520): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(521): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(522): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(523): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(557): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(563): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(572): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(578): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\timothy\documents\visual studio 2012\projects\chess\new chess\new chess\new chess main.cpp(714): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Timothy\Documents\Visual Studio 2012\Projects\Chess\New Chess\Debug\New Chess.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Timothy\Documents\Visual Studio 2012\Projects\Chess\New Chess\Debug\New Chess.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Timothy\Documents\Visual Studio 2012\Projects\Chess\New Chess\Debug\New Chess.lib" /MACHINE:X86 "Debug\New Chess Main.obj"
+         New Chess.vcxproj -> C:\Users\Timothy\Documents\Visual Studio 2012\Projects\Chess\New Chess\Debug\New Chess.exe
+     1>Done Building Project "C:\Users\Timothy\Documents\Visual Studio 2012\Projects\Chess\New Chess\New Chess\New Chess.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.60
